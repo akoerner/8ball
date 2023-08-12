@@ -6,7 +6,7 @@ Do you need good entropy supplied by random.org to address your burning
 questions? Then this project is for you.
 
 ## Getting Started
-1. clone the repo
+1. Clone the repo
 2. Think of a burning question
 3. Consult the ether:
 ```bash
