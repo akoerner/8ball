@@ -47,7 +47,7 @@ think(){
         echo -n "."
     done
     clear
-    printf_center "Answer has become clear..."
+    printf_center "Answer is becoming clear..."
     sleep 2s
     message=$(sed "${random_line_number}q;d" "${SCRIPT_DIRECTORY}/responses.txt")
     echo ""
